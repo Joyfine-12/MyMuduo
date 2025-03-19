@@ -1,6 +1,7 @@
 #include <iostream>
 
 #include "Logger.h"
+#include "Timestamp.h"
 
 // 获取日志唯一的实例对象
 Logger& Logger::instance() {
@@ -35,6 +36,5 @@ void Logger::log(std::string msg) {
     }
 
     // 打印时间和msg
-    // 时间等等会补上
-    std::cout << "print time" << " : " << msg << "\n";
+    std::cout << Timestamp::now().toString() << " : " << msg << "\n";
 }
