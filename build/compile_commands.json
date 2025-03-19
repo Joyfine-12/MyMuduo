@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Logger.cc.o -c /home/joyfine/mymuduo/Logger.cc",
+  "file": "/home/joyfine/mymuduo/Logger.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Timestamp.cc.o -c /home/joyfine/mymuduo/Timestamp.cc",
+  "file": "/home/joyfine/mymuduo/Timestamp.cc"
+}
+]

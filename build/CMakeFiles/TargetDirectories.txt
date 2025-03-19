@@ -1,0 +1,3 @@
+/home/joyfine/mymuduo/build/CMakeFiles/mymuduo.dir
+/home/joyfine/mymuduo/build/CMakeFiles/edit_cache.dir
+/home/joyfine/mymuduo/build/CMakeFiles/rebuild_cache.dir
