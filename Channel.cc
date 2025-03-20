@@ -45,7 +45,7 @@ int Channel::fd() const {
 int Channel::events() const { 
     return events_; 
 }
-int Channel::set_revents(int revt) { 
+void Channel::set_revents(int revt) { 
     revents_ = revt; 
 }
 /*

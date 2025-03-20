@@ -37,7 +37,7 @@ public:
 
     int fd() const;
     int events() const;
-    int set_revents(int revt); // epoll 监听事件之后设置 revent 真真正正发生的事件
+    void set_revents(int revt); // epoll 监听事件之后设置 revent 真真正正发生的事件
 
     // 设置fd相应的事件状态
     void enableReading(); // update 调用epoll_ctl 即重新设置epoll监听结构
