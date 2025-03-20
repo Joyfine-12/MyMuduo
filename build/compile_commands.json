@@ -1,8 +1,28 @@
 [
 {
   "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Channel.cc.o -c /home/joyfine/mymuduo/Channel.cc",
+  "file": "/home/joyfine/mymuduo/Channel.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoop.cc.o -c /home/joyfine/mymuduo/EventLoop.cc",
+  "file": "/home/joyfine/mymuduo/EventLoop.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/InetAddress.cc.o -c /home/joyfine/mymuduo/InetAddress.cc",
+  "file": "/home/joyfine/mymuduo/InetAddress.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Logger.cc.o -c /home/joyfine/mymuduo/Logger.cc",
   "file": "/home/joyfine/mymuduo/Logger.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/TcpServer.cc.o -c /home/joyfine/mymuduo/TcpServer.cc",
+  "file": "/home/joyfine/mymuduo/TcpServer.cc"
 },
 {
   "directory": "/home/joyfine/mymuduo/build",
