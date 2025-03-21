@@ -55,13 +55,13 @@ EventLoop => ChannelList Poller
 void Channel::update() {
     // 通过channel 所属的EventLoop，调用poller的相应方法，注册fd的events事件
     // add code...
-    // loop_ -> updateChannel(this);
+    loop_ -> updateChannel(this);
 }
 
 // 在channel所属的eventloop中删除该channel删除
 void Channel::remove() {
     //add code...
-    // loop_ -> removeChannel(this);
+    loop_ -> removeChannel(this);
 }
 
 // fd 得到poller通知以后，处理事件的
