@@ -45,6 +45,10 @@ const sockaddr_in* InetAddress::getSockAddr() const {
     return &addr_;
 }
 
+void InetAddress::setSockAddr(const sockaddr_in &addr) { 
+    addr_ =addr;
+}
+
 
 // #include <iostream>
 // int main() {

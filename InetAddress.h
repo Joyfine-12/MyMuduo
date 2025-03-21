@@ -16,6 +16,7 @@ public:
 
     //获取成员变量
     const sockaddr_in* getSockAddr() const;
+    void setSockAddr(const sockaddr_in &addr);
 private:
     // 用于表示 IPv4 地址和端口号的结构体。
     sockaddr_in addr_;
