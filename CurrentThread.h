@@ -4,7 +4,7 @@
 #include <sys/syscall.h>
 
 namespace CurrentThread {
-    extern __thread int t_cachedTid = 0;
+    extern __thread int t_cachedTid;
 
     void cacheTid();
     

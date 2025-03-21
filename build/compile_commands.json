@@ -6,6 +6,21 @@
 },
 {
   "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/CurrentThread.cc.o -c /home/joyfine/mymuduo/CurrentThread.cc",
+  "file": "/home/joyfine/mymuduo/CurrentThread.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/DefaultPoller.cc.o -c /home/joyfine/mymuduo/DefaultPoller.cc",
+  "file": "/home/joyfine/mymuduo/DefaultPoller.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EPollPoller.cc.o -c /home/joyfine/mymuduo/EPollPoller.cc",
+  "file": "/home/joyfine/mymuduo/EPollPoller.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoop.cc.o -c /home/joyfine/mymuduo/EventLoop.cc",
   "file": "/home/joyfine/mymuduo/EventLoop.cc"
 },
@@ -18,6 +33,11 @@
   "directory": "/home/joyfine/mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Logger.cc.o -c /home/joyfine/mymuduo/Logger.cc",
   "file": "/home/joyfine/mymuduo/Logger.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Poller.cc.o -c /home/joyfine/mymuduo/Poller.cc",
+  "file": "/home/joyfine/mymuduo/Poller.cc"
 },
 {
   "directory": "/home/joyfine/mymuduo/build",
