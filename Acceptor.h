@@ -3,7 +3,6 @@
 #include "noncopyable.h"
 #include "Socket.h"
 #include "Channel.h"
-// #include "InetAddress.h"
 
 #include <functional>
 

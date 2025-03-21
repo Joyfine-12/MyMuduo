@@ -1,6 +1,11 @@
 [
 {
   "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Acceptor.cc.o -c /home/joyfine/mymuduo/Acceptor.cc",
+  "file": "/home/joyfine/mymuduo/Acceptor.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Channel.cc.o -c /home/joyfine/mymuduo/Channel.cc",
   "file": "/home/joyfine/mymuduo/Channel.cc"
 },
@@ -31,6 +36,11 @@
 },
 {
   "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.cc.o -c /home/joyfine/mymuduo/EventLoopThreadPool.cc",
+  "file": "/home/joyfine/mymuduo/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/InetAddress.cc.o -c /home/joyfine/mymuduo/InetAddress.cc",
   "file": "/home/joyfine/mymuduo/InetAddress.cc"
 },
@@ -43,6 +53,11 @@
   "directory": "/home/joyfine/mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Poller.cc.o -c /home/joyfine/mymuduo/Poller.cc",
   "file": "/home/joyfine/mymuduo/Poller.cc"
+},
+{
+  "directory": "/home/joyfine/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC -o CMakeFiles/mymuduo.dir/Socket.cc.o -c /home/joyfine/mymuduo/Socket.cc",
+  "file": "/home/joyfine/mymuduo/Socket.cc"
 },
 {
   "directory": "/home/joyfine/mymuduo/build",
