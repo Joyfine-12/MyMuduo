@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/joyfine/mymuduo/Acceptor.cc" "CMakeFiles/mymuduo.dir/Acceptor.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Acceptor.cc.o.d"
+  "/home/joyfine/mymuduo/Buffer.cc" "CMakeFiles/mymuduo.dir/Buffer.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Buffer.cc.o.d"
   "/home/joyfine/mymuduo/Channel.cc" "CMakeFiles/mymuduo.dir/Channel.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Channel.cc.o.d"
   "/home/joyfine/mymuduo/CurrentThread.cc" "CMakeFiles/mymuduo.dir/CurrentThread.cc.o" "gcc" "CMakeFiles/mymuduo.dir/CurrentThread.cc.o.d"
   "/home/joyfine/mymuduo/DefaultPoller.cc" "CMakeFiles/mymuduo.dir/DefaultPoller.cc.o" "gcc" "CMakeFiles/mymuduo.dir/DefaultPoller.cc.o.d"
@@ -20,6 +21,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/joyfine/mymuduo/Logger.cc" "CMakeFiles/mymuduo.dir/Logger.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Logger.cc.o.d"
   "/home/joyfine/mymuduo/Poller.cc" "CMakeFiles/mymuduo.dir/Poller.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Poller.cc.o.d"
   "/home/joyfine/mymuduo/Socket.cc" "CMakeFiles/mymuduo.dir/Socket.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Socket.cc.o.d"
+  "/home/joyfine/mymuduo/TcpConnection.cc" "CMakeFiles/mymuduo.dir/TcpConnection.cc.o" "gcc" "CMakeFiles/mymuduo.dir/TcpConnection.cc.o.d"
   "/home/joyfine/mymuduo/TcpServer.cc" "CMakeFiles/mymuduo.dir/TcpServer.cc.o" "gcc" "CMakeFiles/mymuduo.dir/TcpServer.cc.o.d"
   "/home/joyfine/mymuduo/Thread.cc" "CMakeFiles/mymuduo.dir/Thread.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Thread.cc.o.d"
   "/home/joyfine/mymuduo/Timestamp.cc" "CMakeFiles/mymuduo.dir/Timestamp.cc.o" "gcc" "CMakeFiles/mymuduo.dir/Timestamp.cc.o.d"

@@ -61,7 +61,9 @@
 				11,
 				12,
 				13,
-				14
+				14,
+				15,
+				16
 			]
 		}
 	],
@@ -104,7 +106,9 @@
 				11,
 				12,
 				13,
-				14
+				14,
+				15,
+				16
 			]
 		}
 	],
@@ -114,6 +118,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Acceptor.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Buffer.cc",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -180,6 +190,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Socket.cc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TcpConnection.cc",
 			"sourceGroupIndex" : 0
 		},
 		{
