@@ -3,7 +3,7 @@
 
 #include <functional>
 
-EventLoop* CheckLoopNotNull(EventLoop* loop) {
+static EventLoop* CheckLoopNotNull(EventLoop* loop) {
     if (loop == nullptr) {
         LOG_FATAL("%s:%s:%d mainLoop is null! \n", __FILE__, __FUNCTION__, __LINE__);
     }
